@@ -18,3 +18,5 @@ Scaffolding projects
 6. Click on the build Job
 
 7. Expand the 'Run npm test' step and see which tests passed (yay) & which tests failed (boo)
+
+[![Watch Running the Tests](media/actions_test.gif))](actions_test.mp4)
