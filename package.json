@@ -1,0 +1,25 @@
+{
+  "name": "potential-octo-basson",
+  "description": "GraphQL server with catalog data",
+  "engines": {
+    "node": ">=10.15.3"
+  },
+  "private": true,
+  "repository": {
+    "url": "git+https://github.com/someboredkiddo/potential-octo-bassoon.git"
+  },
+  "dependencies": {
+    "mocha": "8.2.1"
+  },
+  "version": "0.0.0",
+  "bugs": {
+    "url": "https://github.com/someboredkiddo/potential-octo-bassoon/issues"
+  },
+  "homepage": "https://github.com/someboredkiddo/potential-octo-bassoon#readme",
+  "main": "code-challenges.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "John Penner",
+  "license": "ISC"
+}
