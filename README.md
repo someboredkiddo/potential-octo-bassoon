@@ -1,8 +1,3 @@
-# potential-octo-bassoon
-
-Scaffolding projects
-
-
 # To run tests against the code challenges
 
 1. Fork this repository
@@ -19,4 +14,4 @@ Scaffolding projects
 
 7. Expand the 'Run npm test' step and see which tests passed (yay) & which tests failed (boo)
 
-[![Watch Running the Tests](media/actions_test.gif))](actions_test.mp4)
+[![Watch Running the Tests](media/actions_test.gif)](media/actions_test.mp4)
