@@ -1,6 +1,6 @@
 {
   "name": "potential-octo-basson",
-  "description": "GraphQL server with catalog data",
+  "description": "Test Framework for Hackathon",
   "engines": {
     "node": ">=10.15.3"
   },
